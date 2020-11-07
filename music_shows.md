@@ -440,6 +440,8 @@
 | 200130 | Seoul Music Awards       | The Memories of Red Velvet + Psycho            |                               [Group](https://youtu.be/_Ehc2npvpcQ)                               |       |        |       |     |      |
 | 200703 | MBC Korea Companion Sale | without Wendy                                  |                            [VLive](https://www.vlive.tv/video/200739)                             |       |        |       |     |      |
 | 200709 | SM The Stage: Monster    | Red Velvet: Irene & Seulgi unit                | [Top Note][200709_topnote] // [Middle Note][200709_midnote] // [Top & Middle Note][200709_topmid] |       |        |   X   |  X  |  X   |
+|                                       |                                     |                                      |
+| 200904 | KBS2 Yu Huiyeol's Sketchbook  |   Joy - Introduce Me a Good Person        |  [YouTube](https://www.youtube.com/watch?v=1J1RGKXq7bo // [Viki](https://www.viki.com/videos/1169324v-yu-huiyeols-sketchbook-episode-507) // [Kshow123](http://kshow123.net/show/sketchbook-of-youheeyeul/episode-507.html)|  |  |  
 
 [200709_topnote]:https://youtu.be/c6a9I5cME7M
 [200709_midnote]:https://youtu.be/uVx4elnmXdo
